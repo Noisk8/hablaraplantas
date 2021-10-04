@@ -4872,7 +4872,7 @@ h1, h2, h3, h4, h5, h6 {
   -moz-transition: all 0.3s ease 0s;
   -o-transition: all 0.3s ease 0s;
   transition: all 0.3s ease 0s;
-  background-color: #222;
+  background-color: #fff;
 }
 
 .dropdown-item {
@@ -4905,7 +4905,7 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 .dropdown-menu {
-  background: #222;
+  background: #fff;
   border-radius: 0;
   margin-top: 15px;
   border: none;
